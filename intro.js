@@ -1,4 +1,4 @@
-const name='noah'
-let age =21
+const name='noah Banda'
+let age =25
 
-console.log(name,age,'my favourite programing langueage is python')
+console.log('name: ',name,'age: ',age,'my favourite programing langueage is python')
